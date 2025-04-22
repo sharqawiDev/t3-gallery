@@ -1,11 +1,11 @@
-<!-- Here is a list of technologies used in this tutorial that I'm interested to learn -->
-
 # Technologies
+
+A is a list of technologies used/mentioned in this tutorial that I'm interested to learn
 
 1. PNPM (alternate pkg manager)
 2. t3-app (the cli that created the project)
 3. @ tRPC (a mix of GraphQL + REST)
-4. @ clerk (auth tool)
+4. clerk (auth tool)
 5. NextJS (well, you know what is NextJS)
 6. @ NextAuth.js (An auth for NextJS)
 7. Drizzle (A new & super powerful ORM for nodeJS)
